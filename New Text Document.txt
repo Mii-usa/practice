@@ -1,3 +1,6 @@
 new text
-phone number: 
+phone number: 322 223 322
 address:
+
+sex: male
+age: 33
