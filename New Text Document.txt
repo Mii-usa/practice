@@ -1,6 +1,6 @@
 new text
 phone number: 322 223 322
-address:
+address: 666 Devil road
 
 sex: male
 age: 33
